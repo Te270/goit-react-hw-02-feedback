@@ -1,0 +1,12 @@
+.btn {
+  padding: 4px 10px;
+  margin-right: 10px;
+  text-transform: capitalize;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  background-color: rgb(223, 56, 97);
+  cursor: pointer;
+  outline: none;
+  box-shadow: 1px 2px 2px 0 rgb(0 0 0 / 0.5);
+  transition: box-shadow 250ms linear;
+}

@@ -1,0 +1,12 @@
+.container {
+  width: 800px;
+  background-color: bisque;
+  text-align: center;
+  padding: 20px;
+}
+
+.title {
+  font-size: 30px;
+  line-height: 1.2;
+  font-weight: 500;
+}

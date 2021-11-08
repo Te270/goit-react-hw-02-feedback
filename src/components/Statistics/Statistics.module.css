@@ -1,0 +1,12 @@
+.list {
+  list-style: none;
+  margin-top: 10px;
+}
+.item {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.text {
+  margin-right: 10px;
+}
